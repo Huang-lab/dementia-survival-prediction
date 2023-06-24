@@ -1,4 +1,4 @@
-#### Preprocessing.R ####
+#### preprocessing.R ####
 #### Jimmy Zhang @ 1/3/2022 ####
 
 #set working directory
