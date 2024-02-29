@@ -1,6 +1,8 @@
 # dementia-survival-prediction
-Predictive Models and Features of Patient Mortality across Dementia Types
+## Citation
+Zhang, J., Song, L., Miller, Z. et al. Machine learning models identify predictive features of patient mortality across dementia types. _Commun Med_ 4, 23 (2024). https://doi.org/10.1038/s43856-024-00437-7
 
+## License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
